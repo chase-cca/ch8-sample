@@ -1,0 +1,4 @@
+Roses are red
+violets are blue
+dont hate git
+it loves you
